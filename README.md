@@ -10,7 +10,7 @@
 권장 : 
 - Windows : Windows 10 21H2 이상 또는 Windows 11
 
-- Mac : macOS 12 Monterey 이상
+- Mac : macOS 14 Sonoma 이상
 
 ## Mac에서 "'BusanBus'은(는) 손상되었기 때문에 열 수 없습니다" 해결 방법
 터미널에서 xattr -cr /Applications/BusanBus.app 하고 재실행
