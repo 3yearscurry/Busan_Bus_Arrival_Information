@@ -29,5 +29,5 @@
 
 ## 스크린샷
 
-
+<img width="1362" height="812" alt="image" src="https://github.com/user-attachments/assets/14e625aa-3154-4002-b2c8-e25f68569c79" />
 
