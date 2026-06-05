@@ -31,4 +31,4 @@
 
 <img width="1362" height="812" alt="image" src="https://github.com/user-attachments/assets/14e625aa-3154-4002-b2c8-e25f68569c79" />
 
-<img width="1428" height="876" alt="image" src="https://github.com/user-attachments/assets/10bb9aa4-2f97-4461-91ae-c7f193071031" />
+<img width="1360" height="805" alt="image" src="https://github.com/user-attachments/assets/78e5cfb5-9293-4b5d-a144-e0a0731b6667" />
