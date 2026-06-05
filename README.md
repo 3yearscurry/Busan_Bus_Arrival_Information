@@ -2,7 +2,15 @@
 
 [![API 서버 상태](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/3yearscurry/d179f0445e5df8a51b85c45c5caeda35/raw/server-status.json)](https://github.com/3yearscurry/Busan_Bus_Arrival_Information/releases)
 
-부산광역시 버스 도착 정보를 실시간으로 조회하는 Windows 데스크톱 앱입니다.
+부산광역시 버스 도착 정보를 실시간으로 조회하는 데스크톱 앱입니다.
+
+# 서버 점검 안내
+
+더욱 쾌적한 서비스 이용을 위하여 정기적인 서버 점검을 시행합니다.
+
+`점검 일시 : 26.06.06 AM 06:00 ~ PM 18:00`
+
+서버 점검 중에는 서비스 이용을 하실 수 없으니 참고해 주시기 바랍니다.
 
 ## 요구 사항
 최소 : Windows 8.1
