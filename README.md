@@ -8,7 +8,7 @@
 
 ## 요구 사항
 
-- Windows : `Windows 10 21H2 이상 또는 Windows 11`
+- Windows : `Windows 10 21H2 이상 또는 Windows 11(x64 아키텍쳐 전용)`
 
 - Mac : `macOS 14 Sonoma 이상(Apple Silicon 전용)`
 
