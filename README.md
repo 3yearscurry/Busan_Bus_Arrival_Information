@@ -21,6 +21,10 @@
 
 ## 스크린샷
 
-<img width="1362" height="812" alt="image" src="https://github.com/user-attachments/assets/14e625aa-3154-4002-b2c8-e25f68569c79" />
+<img width="1362" height="812" alt="image" src="https://github.com/user-attachments/assets/3de4599f-6429-46a4-a165-68e51699916d" />
 
-<img width="1360" height="805" alt="image" src="https://github.com/user-attachments/assets/78e5cfb5-9293-4b5d-a144-e0a0731b6667" />
+<img width="1362" height="812" alt="image" src="https://github.com/user-attachments/assets/cf429d20-d197-44a6-8d2f-c1f0381a166c" />
+
+<img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/2a6403e9-38d5-446a-b821-170be55807c9" />
+
+<img width="432" height="362" alt="image" src="https://github.com/user-attachments/assets/207d0000-77a6-4f75-8a84-b5490e7bd96f" />
