@@ -2,7 +2,7 @@
 
 [![API 서버 상태](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/3yearscurry/d179f0445e5df8a51b85c45c5caeda35/raw/server-status.json)](https://github.com/3yearscurry/Busan_Bus_Arrival_Information/releases)
 
-부산광역시 버스 도착 정보를 실시간으로 조회하는 데스크톱 앱입니다.
+부산광역시(김해시) 버스 도착 정보를 실시간으로 조회하는 데스크톱 앱입니다.
 
 `본 프로그램은 부산광역시(김해시)가 제작·운영·후원하는 공식 프로그램이 아닙니다.`
 
