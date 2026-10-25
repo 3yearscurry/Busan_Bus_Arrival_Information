@@ -29,11 +29,21 @@
 
 `본 프로그램은 부산광역시(김해시)가 제작·운영·후원하는 공식 프로그램이 아닙니다.`
 
-## 요구 사항
+## 권장 사양
 
-- Windows : `Windows 10 21H2 이상 또는 Windows 11(x64 아키텍처 전용)`
+- CPU : `Intel Core i3 8세대 / AMD Ryzen 3 이상`
 
-- Mac : `macOS 14 Sonoma 이상(Apple Silicon 전용)`
+* **RAM**:
+  * **최소**: 8 GB (DDR3 이상)
+  * **권장**: 16 GB 이상 (DDR4 2666MHz+ 이상)
+
+* **GPU**:
+  * **최소**: DirectX 11 지원 그래픽 (Intel HD Graphics 4000 이상)
+  * **권장**: DirectX 12 지원 그래픽
+    * 내장: Intel UHD Graphics 620/630 또는 AMD Radeon Vega 시리즈 이상
+    * 외장: NVIDIA GeForce GT 1030 / GTX 1050 또는 AMD Radeon RX 550 이상
+
+- 네트워크 : `100 Mbps 초고속 인터넷 이상`
 
 ## Mac에서 "'BusanBus'은(는) 손상되었기 때문에 열 수 없습니다" 오류 발생 시
 터미널에서 xattr -cr /Applications/BusanBus.app 실행 후 프로그램 재실행
