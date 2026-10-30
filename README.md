@@ -31,17 +31,21 @@
 
 ## 권장 사양
 
-- CPU : `Intel Core i3 8세대 / AMD Ryzen 3 이상`
+* **운영체제(64비트 전용)**:
+  * **최소**: `Windows 10 21H2(19044) 이상`
+  * **권장**: `Windows 11 22H2(22621) 이상`
+
+- **CPU** : `Intel Core i3 8세대 / AMD Ryzen 3 이상`
 
 * **RAM**:
-  * **최소**: 8 GB (DDR3 이상)
-  * **권장**: 16 GB 이상 (DDR4 2666MHz+ 이상)
+  * **최소**: `8 GB (DDR3 이상)`
+  * **권장**: `16 GB 이상 (DDR4 이상)`
 
 * **GPU**:
-  * **최소**: DirectX 11 지원 그래픽 (Intel HD Graphics 4000 이상)
-  * **권장**: DirectX 12 지원 그래픽
-    * 내장: Intel UHD Graphics 620/630 또는 AMD Radeon Vega 시리즈 이상
-    * 외장: NVIDIA GeForce GT 1030 / GTX 1050 또는 AMD Radeon RX 550 이상
+  * **최소**: `DirectX 11 지원 그래픽 (Intel HD Graphics 4000 이상)`
+  * **권장**: `DirectX 12 지원 그래픽`
+    * 내장: `Intel UHD Graphics 620/630 또는 AMD Radeon Vega 시리즈 이상`
+    * 외장: `NVIDIA GeForce GT 1030 / GTX 1050 또는 AMD Radeon RX 550 이상`
 
 - 네트워크 : `100 Mbps 초고속 인터넷 이상`
 
